@@ -54,16 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hareesh-t&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareesh-t&layout=compact&theme=radical&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hareesh-t&theme=radical" alt="streak graph" />
-</div>
 
 ---
 
