@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there, I'm Hareesh T! 👋</h1>
 
-<h3 align="center">Software Developer | Full Stack Enthusiast</h3>
+<h3 align="center">Cyber Sec | Full Stack Enthusiast</h3>
 
 <p align="center"> 
   <a href="https://github.com/hareesh-t">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- I’m an aspiring SDET with a passion for building robust automation frameworks and efficient full-stack applications. I love bridging the gap between development and quality engineering.
+ I’m an aspiring CyberSecurity & SDE with a passion for building robust automation frameworks and efficient full-stack applications. I love bridging the gap between development and quality engineering.
 </p>
 
 ---
